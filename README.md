@@ -1,0 +1,1 @@
+# simplygym-autoupdater
